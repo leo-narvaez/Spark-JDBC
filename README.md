@@ -1,5 +1,5 @@
 # Conexión a Azure SQL Server y PostgreSQL en Databricks
-![sql-psql-databricks](https://github.com/user-attachments/assets/d014ea09-577b-4999-9734-9ecb37650a84)
+![databricks-sql-psql](https://github.com/user-attachments/assets/c5eb0982-92a8-4065-a686-5ad237c6f6bc)
 
 Este repositorio contiene una práctica que muestra cómo conectarse desde Databricks a dos bases de datos alojadas en Azure: Azure SQL Server y PostgreSQL. En este proyecto, se realizan consultas SQL para obtener información de las bases de datos y trabajar con ella utilizando PySpark.
 
